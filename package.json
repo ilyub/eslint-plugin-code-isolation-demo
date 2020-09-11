@@ -1,0 +1,21 @@
+{
+  "author": "Ilya Lyubinskiy <admin.phpdev@gmail.com> (https://github.com/ilyub)",
+  "description": "Demo for eslint-plugin-code-isolation",
+  "homepage": "https://github.com/ilyub/eslint-plugin-code-isolation-demo",
+  "license": "ISC",
+  "name": "eslint-plugin-code-isolation-demo",
+  "version": "1.0.4",
+  "bugs": {
+    "url": "https://github.com/ilyub/eslint-plugin-code-isolation-demo/issues"
+  },
+  "scripts": {
+    "lint": "eslint src/**"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.1.0",
+    "@typescript-eslint/parser": "^4.1.0",
+    "eslint": "^7.8.1",
+    "eslint-plugin-code-isolation": "^1.0.4",
+    "typescript": "^4.0.2"
+  }
+}
